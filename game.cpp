@@ -5,98 +5,98 @@ using namespace std;
 
 int main(){
     
-    int a;
+        int a;
     
-    int b;
+        int b;
     
-    int c;
+        int c;
     
-    int d;
+        int d;
     
-    int e;
+        int e;
     
-    int f;
+        int f;
     
-    int g;
+        int g;
     
-    int h;
+        int h;
     
-    int i;
+        int i;
     
-    int j;
+        int j;
     
-    int k;
+        int k;
     
-    int l;
+        int l;
     
-    int m;
+        int m;
     
-    int n;
+        int n;
     
-    int o;
+        int o;
     
-    int p;
+        int p;
     
-    int q;
+        int q;
     
-    int r;
+        int r;
     
-    int s;
+        int s;
     
-    int t;
+        int t;
     
-    int u;
+        int u;
     
-    int v;
+        int v;
     
-    int w;
+        int w;
     
-    int y;
+        int y;
     
-    int z;
+        int z;
     
     
     
-    int x;
-    int type;
+        int x;
+        int type;
     
-    int sum;
+        int sum;
     
-    int sub;
+        int sub;
     
-    int prod;
+        int prod;
     
-    int divid;
+        int divid;
     
-    int twoRoot;
+        int twoRoot;
     
-    int threeRoot;
+        int threeRoot;
     
-    int cosine;
+        int cosine;
     
-    int sine;
+        int sine;
     
-    int tangent;
+        int tangent;
     
-    int invcos;
+        int invcos;
     
-    int invsin;
+        int invsin;
     
-    int invtan;
+        int invtan;
     
-    int invcosh;
+        int invcosh;
     
-    int invsinh;
+        int invsinh;
     
-    int invtanh;
+        int invtanh;
     
-    int absval;
+        int absval;
     
-    int diffe;
+        int diffe;
     
-    cout << "Welcome to Dhruv's C++ Calculator"
-    cout << "Enter 1 for addition. Enter 2 for subtraction. Enter 3 for multiplication. Enter 4 for division. Enter 5 for Square roots. Enter 6 for Cube roots. Enter 7 for cosine. Enter 8 for sine. Enter 9 for tangent. Enter 10 for inverse cosine. Enter 11 for inverse sine. Enter 12 for inverse tangent. Enter 13 for hyperbolic cosine. Enter 14 for hyperbolic sine. Enter 15 for hyperbolic tangent. Enter 16 for Absolute Value. Enter 17 to find the difference.:  ";
-    cin >> x;
+        cout << "Welcome to Dhruv's C++ Calculator V2.5"
+        cout << "Enter 1 for addition. Enter 2 for subtraction. Enter 3 for multiplication. Enter 4 for division. Enter 5 for Square roots. Enter 6 for Cube roots. Enter 7 for cosine. Enter 8 for sine. Enter 9 for tangent. Enter 10 for inverse cosine. Enter 11 for inverse sine. Enter 12 for inverse tangent. Enter 13 for hyperbolic cosine. Enter 14 for hyperbolic sine. Enter 15 for hyperbolic tangent. Enter 16 for Absolute Value. Enter 17 to find the difference.:  ";
+        cin >> x;
     
     if(x==1){
         cout << "Enter the first number! \n";
